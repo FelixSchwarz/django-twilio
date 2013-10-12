@@ -8,6 +8,9 @@ dist
 # Editor temp files:
 *.swp
 *~
+.settings
+.pydevproject
+.project
 
 # Sphinx docs:
 build
